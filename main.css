@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(rgb(1, 1, 61));
+    display: flex;
+    align-items: center;
+    font-family: "Playwrite IN", serif;
+    font-weight: 200;
+    font-size: large;
+    color: gray;
+    font-size: 40px;
+}
